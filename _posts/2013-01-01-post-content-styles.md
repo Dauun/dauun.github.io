@@ -5,7 +5,7 @@ author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: cards.jpg
+  feature: cover.png
   credit:
   creditlink:
 ---
