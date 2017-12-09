@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Text Formatting"
-author: "Paul Le"
+author: "Said Dauun"
 categories: journal
 tags: [documentation,sample]
 image:
