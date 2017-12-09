@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post Content Styles"
+title: "Eloquent JavaScript, Good and Free"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+This is one of two javascript books I would like to recomend, 
 
 ## Some great heading (h2)
 
