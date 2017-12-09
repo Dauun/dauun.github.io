@@ -1,19 +1,18 @@
 ---
 layout: post
-title: "About the Author"
+title: "Por que portugues?"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: cutting.jpg
+  feature: Brazilian_flag_HR_2000px.jpg
   credit:
   creditlink:
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Below is a compilation of some of my favourite things that I have built over the years. You may find everything else on my <a href="http://github.com/lenpaul" target="_blank">Github</a> and <a href="https://codepen.io/lenpaul" target="_blank">Code Pen</a> profiles.
+Por que portugues?
+O português para mim é um idioma divertido em um bom senso, essa é uma das razões pelas quais eu queria aprender, ainda estou aprendendo e espero que algum dia tenha fluência para escrever e falar.
 
-### Jekyll Website Theme for Blogging
+Qual é o processo que eu estou seguindo para escrever isso? Bem primeiro as coisas primeiro, e como iniciante no idioma, o que você está lendo é escrito em espanhol e depois traduzido para o Português, ainda é difícil para mim pensar sem pausar idéias e escrever poesia.
 
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog. This theme is currently being used by about three dozen people, with this number growing every day.
-
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/Installation-Guide.html">how to use install</a> and use the theme.
+Eu poderia recomendar duas ótimas ferramentas, youtube e duolingo
