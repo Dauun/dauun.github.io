@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Eloquent Exercises"
 author: "Said Dauun"
 categories: journal
 tags: [documentation,sample]
