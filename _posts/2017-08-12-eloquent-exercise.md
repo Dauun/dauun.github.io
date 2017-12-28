@@ -1,12 +1,14 @@
 ---
+title: Eloquent Exercises
 layout: post
-title: "Eloquent Exercises"
-author: "Said Dauun"
+author: Dauun
 categories: journal
-tags: [documentation,sample]
+tags:
+- documentation
+- sample
 image:
   feature: spools.jpg
-  credit:
+  credit: 
   creditlink:
 ---
 
