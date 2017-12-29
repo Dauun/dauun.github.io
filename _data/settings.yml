@@ -1,5 +1,5 @@
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
+title:  Dauun
+tagline:  universo de alguém
 
 # Authors documented under _data
 
@@ -11,9 +11,9 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Portafolio', path: 'menu', url: 'about.html'}
+- {name: 'Mapa', path: 'menu', url: 'writing.html'}
+- {name: 'Contacto', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

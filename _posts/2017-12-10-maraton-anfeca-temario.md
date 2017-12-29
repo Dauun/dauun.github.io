@@ -6,10 +6,12 @@ categories: fca
 tags:
 - documentation
 image:
-  feature: cover.png
+  feature: download.jpg
   credit: 
   creditlink:
 ---
+
+Aquí eu vou escrever todas os temas precisados para o temario. A maratona é um tipo de concurso de conhecimento para as quatro áreas.
 
 Conceptos traductores de alto nivel, Interpretes
 
