@@ -33,3 +33,21 @@ for(var i = 1; i <= 100; i++){
 	t = "";
 }
 ```
+
+```js
+var drawLine = function(l){
+	var line = "";
+	for(var i = 1; i <= 8; i++){
+		if(i % 2 == l % 2){
+			line += "#";
+		}else{
+			line += " ";
+		}
+	}
+	console.log(line);
+}
+
+for(var i = 1; i <= 8; i++){
+	drawLine(i);
+}
+```
