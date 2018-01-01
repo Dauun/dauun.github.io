@@ -1,12 +1,14 @@
 ---
+title: Eloquent JavaScript, Good and Free
 layout: post
-title: "Eloquent JavaScript, Good and Free"
-author: "Paul Le"
+author: Said Dauun
 categories: journal
-tags: [documentation,sample]
+tags:
+- documentation
+- sample
 image:
   feature: cover.png
-  credit:
+  credit: 
   creditlink:
 ---
 

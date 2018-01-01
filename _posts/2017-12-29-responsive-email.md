@@ -1,6 +1,8 @@
 ---
 title: Responsive Email
 layout: post
+image:
+  feature: Captura154.png
 ---
 
 Pre-procesador de Gmail añade sus propios estilos al correo.
@@ -18,3 +20,9 @@ Se usara la version simplificada para hacer tablas. De igual manera muchos clien
 ```
 
 Debido a que soporte de rendero y el mínimo soporte de estilos css en etiquetas html a excepticon de tables y celdas de tabla, se usará para el diseño de los correos esta última.
+
+https://www.transparenttextures.com/
+http://www.color-hex.com/color-palette/52206
+https://www.campaignmonitor.com/css/style-element/style-in-head/
+http://responsiveemailpatterns.com/
+http://www.fontspace.com/category/japanese

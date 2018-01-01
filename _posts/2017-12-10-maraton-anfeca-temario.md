@@ -1,7 +1,7 @@
 ---
 title: Maratón ANFECA temario
 layout: post
-author: Dauun
+author: Said Dauun
 categories: fca
 tags:
 - documentation

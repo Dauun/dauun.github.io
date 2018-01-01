@@ -1,12 +1,13 @@
 ---
+title: Por que portugues?
 layout: post
-title: "Por que portugues?"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
+author: Said Dauun
+tags:
+- documentation
+- sample
 image:
   feature: Brazilian_flag_HR_2000px.jpg
-  credit:
+  credit: 
   creditlink:
 ---
 
