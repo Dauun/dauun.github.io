@@ -2,7 +2,7 @@
 title: Responsive Email
 layout: post
 image:
-  feature: Captura154.png
+  feature: Captura154.PNG
 ---
 
 Pre-procesador de Gmail añade sus propios estilos al correo.
