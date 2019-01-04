@@ -1,0 +1,81 @@
+.container {
+  margin: 0 auto;
+  padding: 40px 10px;
+  max-width: 500px;
+  font-family: 'Roboto', sans-serif;;
+}
+
+.container a {
+  color: #228be6;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.container p {
+  text-align: center;
+}
+
+.container a:hover {
+  text-decoration: underline;
+}
+
+.container .images {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.container img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.container .names {
+  display: flex;
+  padding-top: 20px;
+}
+
+.container h1 {
+  margin: 0 auto;
+  font-size: 23px;
+  padding-right: 5px;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.container .names i {
+  line-height: 20px;
+  padding: 0 5px;
+  font-size: 20px;
+}
+
+.fa-github {
+  color: #24292e;
+}
+
+.fa-facebook-square {
+  color: #4267b2;
+}
+
+.container .profile ul li {
+  line-height: 25px;
+}
+
+.profile h2 {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 4px;
+}
+
+section {
+  border-top: 1px solid #ced4da;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+.copyright {
+  color: #adb5bd;
+  font-size: 14px;
+  font-weight: bold;
+}
